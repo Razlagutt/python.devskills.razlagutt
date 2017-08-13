@@ -4,3 +4,6 @@ Lib
 Scripts
 tcl
 pip-selfcheck.json
+lib
+include
+bin
